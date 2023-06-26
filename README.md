@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Cafetería Escolar</title>
+  <title>Cafetería cotorro´s</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Bienvenido a la Cafetería Escolar</h1>
+    <h1>Bienvenido a la Cafetería Cotorro´s</h1>
     <nav>
       <ul>
         <li><a href="#inicio">Inicio</a></li>
@@ -39,21 +39,20 @@
 
   <section id="ubicacion">
     <h2>Ubicación</h2>
-    <p>Nos encontramos en [Dirección de la cafetería]. Ven a visitarnos y disfruta de nuestro café en un ambiente acogedor.</p>
+    <p>Nos encontramos en pasillo central . Ven a visitarnos y disfruta de nuestro café en un ambiente acogedor.</p>
   </section>
 
   <section id="contacto">
     <h2>Contacto</h2>
     <p>Puedes contactarnos a través de los siguientes medios:</p>
     <ul>
-      <li>Teléfono: [Número de teléfono]</li>
-      <li>Correo electrónico: [Correo electrónico]</li>
-      <li>Redes sociales: [Enlaces a tus perfiles de redes sociales]</li>
+      <li>Teléfono: 7639-7956 </li>
+      <li>Redes sociales: </li>
     </ul>
   </section>
 
   <footer>
-    <p>Derechos de autor © 2023. Todos los derechos reservados. Cafetería Escolar</p>
+    <p>Derechos de autor © 2023. Todos los derechos reservados. Cafetería cotorro´s</p>
   </footer>
 </body>
 </html>
